@@ -6,14 +6,14 @@ keywords:
 
 # Books purchased in 2018
 
-- [ ] Factfullness
+- [x] Factfullness
 
 # Books purchased in 2019
 
-- [ ] Api first
+- [x] Api first
 - [ ] Clean code
-- [ ] Soft skills
-- [ ] Culture Map
+- [x] Soft skills
+- [x] Culture Map
 - [ ] Why we sleep
 - [ ] Working with legacy code
 - [ ] Refactoring
@@ -21,8 +21,8 @@ keywords:
 - [ ] Spring 5th edition
 - [ ] Docker in practice
 - [ ] Kubernetes in action
-- [ ] Testing in action
-- [ ] Take smart notes
+- [x] Testing in action
+- [x] Take smart notes
 - [ ] Programming with Types
 - [ ] Secure by design
 - [ ] OCP Part 1
